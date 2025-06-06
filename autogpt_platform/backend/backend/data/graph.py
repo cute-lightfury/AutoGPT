@@ -3,6 +3,7 @@ import uuid
 from collections import defaultdict
 from typing import Any, Literal, Optional, cast
 
+
 import prisma
 from prisma import Json
 from prisma.enums import SubmissionStatus
